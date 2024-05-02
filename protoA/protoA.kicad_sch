@@ -17552,7 +17552,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" "https://mou.sr/3Jhh3d6"
+		(property "Distributor Link" "https://mou.sr/4b0tdTF"
 			(at 173.99 44.45 0)
 			(effects
 				(font
@@ -17561,7 +17561,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "71600-108LF"
+		(property "Manufacturer Part Number" "70246-0801"
 			(at 173.99 44.45 0)
 			(effects
 				(font
@@ -17570,7 +17570,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Amphenol FCI"
+		(property "Manufacturer" "Molex"
 			(at 173.99 44.45 0)
 			(effects
 				(font
