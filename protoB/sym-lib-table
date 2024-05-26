@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "picodvi")(type "KiCad")(uri "${KIPRJMOD}/picodvi.kicad_sym")(options "")(descr ""))
+  (lib (name "protoB-rescue")(type "KiCad")(uri "${KIPRJMOD}/protoB-rescue.kicad_sym")(options "")(descr ""))
+)
